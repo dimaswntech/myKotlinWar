@@ -15,6 +15,6 @@ fun doNothing():Nothing {
     }
 }
 fun add():Unit {
-    val result = 2+5
+    val result = 2+6
     println(result)
 }
