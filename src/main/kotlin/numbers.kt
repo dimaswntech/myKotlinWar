@@ -1,5 +1,5 @@
 fun main (args:Array<String>){
-    val s:Short=12;
+    val s:Short=11212;
     val b:Byte=120
     val i:Int=-1000
     val l:Long=12314223425
